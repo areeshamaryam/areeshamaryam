@@ -10,14 +10,14 @@ CS graduate building full-stack web applications and AI-powered systems. I enjoy
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 🤖 AI / Agents
+###  AI / Agents
 ![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-FF6F00?style=for-the-badge)
@@ -29,7 +29,7 @@ CS graduate building full-stack web applications and AI-powered systems. I enjoy
 
 ---
 
-### 🌐 Full Stack
+###  Full Stack
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -39,19 +39,19 @@ CS graduate building full-stack web applications and AI-powered systems. I enjoy
 
 ---
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
 ## 🔭 Currently
 
-📚 Deepening Node.js / Express and learning cloud deployment (Vercel · Railway)  
-🏗️ Building toward full-stack MERN projects with AI integration  
-👀 Open to paid internships and junior developer roles in Full Stack or AI  
+ Deepening Node.js / Express and learning cloud deployment (Vercel · Railway)  
+ Building toward full-stack MERN projects with AI integration  
+ Open to paid internships and junior developer roles in Full Stack or AI  
 
 ---
 
