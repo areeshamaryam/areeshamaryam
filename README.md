@@ -2,8 +2,15 @@
 
 I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
 
-**BS Computer Science · CGPA 3.75 · NUML, Rawalpindi**
-🔗 [LinkedIn](https://www.linkedin.com/in/areesha-maryam-57a41228a/) · 📧 [Email](amaryaam03L@gmail.com)
+<p align="center">
+🎓 BS Computer Science • NUML • CGPA 3.76/4.00
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/areesha-maryam-57a41228a/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
 ---
 
 # 🚀 Featured Projects
