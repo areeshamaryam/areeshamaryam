@@ -1,8 +1,6 @@
 # Hi, I'm Areesh Maryam 👋
 
-I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
-
-
+Computer Science graduate passionate about Artificial Intelligence, Computer Vision, and Full-Stack Development, with experience building intelligent software using machine learning, large language models, and modern web technologies.
 **BS Computer Science** · **CGPA 3.75/4.00** · 
 
 [LinkedIn](https://www.linkedin.com/in/areesha-maryam-57a41228a/) · [Email](mailto:YOUR_EMAIL@gmail.com)
