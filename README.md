@@ -9,7 +9,7 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Computer Visio
 
 ---
 
-##  Featured Projects
+##  Projects
 
 ### **[Smart Surveillance & Attendance System](https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System)**
 
