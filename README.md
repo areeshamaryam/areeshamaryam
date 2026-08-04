@@ -117,9 +117,3 @@ Developing an end-to-end Air Quality Index forecasting platform during my Data S
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ---
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=areeshamaryam&show_icons=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=areeshamaryam&layout=compact"/>
-</p>
