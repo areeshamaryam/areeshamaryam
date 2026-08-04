@@ -3,7 +3,7 @@
 I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
 
 
-**BS Computer Science** · **CGPA 3.76/4.00** · National University of Modern Languages (NUML), Pakistan
+**BS Computer Science** · **CGPA 3.75/4.00** · National University of Modern Languages (NUML), Pakistan
 
 [LinkedIn](https://www.linkedin.com/in/areesha-maryam-57a41228a/) · [Email](mailto:YOUR_EMAIL@gmail.com)
 
