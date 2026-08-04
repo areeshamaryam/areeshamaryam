@@ -2,31 +2,26 @@
 
 I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
 
-<p align="center">
-🎓 BS Computer Science • NUML • CGPA 3.76/4.00
-</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/areesha-maryam-57a41228a/">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-</p>
+🎓 **BS Computer Science** • NUML • CGPA **3.76/4.00**
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/areesha-maryam-57a41228a/)** • **[Email](mailto:YOUR_EMAIL@gmail.com)**
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 [Smart Surveillance & Attendance System](https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System)
+##  [Smart Surveillance & Attendance System](https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System)
 
 **Final Year Project • Computer Vision • Agentic AI**
 
 Developed a real-time intelligent surveillance and attendance system using **OpenCV**, **InsightFace (ArcFace)**, and **Groq Llama 3.3-70B**. The platform automates attendance through facial recognition, identifies unknown intruders in real time, supports runtime user registration without retraining, detects duplicate identities, and leverages an LLM assistant to provide natural-language attendance queries and AI-powered threat alerts.
 
 **Highlights**
--  👤 Runtime user registration with duplicate-face detection
-- 📋 Automated attendance through facial recognition
-- 🚨 Real-time intruder detection and AI-generated security alerts
-- 🤖 LLM-powered attendance assistant using Groq Llama 3.3-70B
-- ⚡ Real-time face recognition with InsightFace (ArcFace)
+-  Runtime user registration with duplicate-face detection
+-  Automated attendance through facial recognition
+-  Real-time intruder detection and AI-generated security alerts
+-  LLM-powered attendance assistant using Groq Llama 3.3-70B
+-  Real-time face recognition with InsightFace (ArcFace)
 - 
 **Tech**
 
