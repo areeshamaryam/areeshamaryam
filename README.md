@@ -9,7 +9,7 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Computer Visio
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### **[Smart Surveillance & Attendance System](https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System)**
 
@@ -30,7 +30,7 @@ Developed a real-time intelligent surveillance and attendance system using **Ope
 
 ---
 
-## 📄 [ResumeIQ – AI Resume Reviewer](https://github.com/areeshamaryam/AI-Resume-Reviewer)
+### [ResumeIQ – AI Resume Reviewer](https://github.com/areeshamaryam/AI-Resume-Reviewer)
 
 **Full-Stack AI Web Application**
 
@@ -38,10 +38,10 @@ Built a MERN-based resume analysis platform powered by **Google Gemini**. The ap
 
 **Highlights**
 
-- 📄 AI-powered ATS resume evaluation
-- 🎯 Job-specific skill gap analysis
-- 🔐 JWT authentication & role-based access
-- 🌐 RESTful backend with MVC architecture
+-  AI-powered ATS resume evaluation
+-  Job-specific skill gap analysis
+-  JWT authentication & role-based access
+-  RESTful backend with MVC architecture
 
 **Tech**
 
@@ -49,7 +49,7 @@ Built a MERN-based resume analysis platform powered by **Google Gemini**. The ap
 
 ---
 
-## 🤖 Agentic AI Timetable Generator
+### Agentic AI Timetable Generator
 
 **Constraint Satisfaction • Generative AI**
 
@@ -57,9 +57,9 @@ Designed a hybrid scheduling system that combines symbolic constraint solving wi
 
 **Highlights**
 
-- 📅 Automated timetable generation
-- 🤖 Natural-language scheduling
-- ✅ Constraint validation & conflict resolution
+- Automated timetable generation
+- Natural-language scheduling
+- Constraint validation & conflict resolution
 
 **Tech**
 
@@ -67,7 +67,7 @@ Designed a hybrid scheduling system that combines symbolic constraint solving wi
 
 ---
 
-## 🌫 AQI Forecasting System *(Internship Project)*
+### AQI Forecasting System *(Internship Project)*
 
 **Data Science • MLOps • Full-Stack**
 
