@@ -1,4 +1,4 @@
-# Hi, I'm Areesh Maryam 👋
+# Areesha Maryam 
 
 Computer Science graduate passionate about Artificial Intelligence, Computer Vision, and Full-Stack Development, with experience building intelligent software using machine learning, large language models, and modern web technologies.
 
