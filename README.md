@@ -3,12 +3,7 @@
 I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
 
 **BS Computer Science · CGPA 3.75 · NUML, Rawalpindi**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/areesha-maryam-57a41228a/) · 📧 [Email](amaryaam03L@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -61,7 +56,7 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Computer Visio
 
 ---
 
-### Smart Surveillance & Attendance System — Final Year Project · Agentic AI · Computer Vision
+### [Smart Surveillance & Attendance System](https://github.com/areeshamaryam/Smart-Surveillance-And-Attendance-System) — Final Year Project · Agentic AI · Computer Vision
 
 Real-time face recognition built on InsightFace (ArcFace) with cosine-similarity matching, reaching 95% recognition accuracy. Supports runtime user registration via webcam or image upload with automatic augmentation and duplicate-face detection — no retraining required. Two LLM agents (Llama 3.3-70B via Groq) extend the system: an intruder detection agent that issues real-time threat-level-classified alerts, and a report assistant that answers natural-language questions grounded in live attendance data.
 
