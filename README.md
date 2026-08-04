@@ -1,10 +1,12 @@
 # Hi, I'm Areesh Maryam 👋
 
-CS graduate building full-stack web applications and AI-powered systems. I enjoy projects that go end-to-end — from an LLM agent doing something useful on the backend, to a clean interface a real user can interact with.
+I'm passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building intelligent software that combines AI with modern web technologies to solve real-world problems.
 
-**BS Computer Science · CGPA 3.76 · NUML, Rawalpindi**
+**BS Computer Science · CGPA 3.75 · NUML, Rawalpindi**
 
-🔗 LinkedIn · 📧 Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
