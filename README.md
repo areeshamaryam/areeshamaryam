@@ -79,7 +79,7 @@ Developing an end-to-end Air Quality Index forecasting platform during my Data S
 
 ---
 
-# 🛠 Technical Skills
+# Technical Skills
 
 ### Programming Languages
 
@@ -117,13 +117,9 @@ Developing an end-to-end Air Quality Index forecasting platform during my Data S
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ---
-
-# 📈 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areeshamaryam&show_icons=true&theme=default"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeshamaryam&layout=compact"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=areeshamaryam&show_icons=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=areeshamaryam&layout=compact"/>
 </p>
