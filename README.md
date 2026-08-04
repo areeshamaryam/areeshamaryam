@@ -60,8 +60,6 @@ Designed a hybrid scheduling system that combines symbolic constraint solving wi
 - Automated timetable generation
 - Natural-language scheduling
 - Constraint validation & conflict resolution
-**Watch the project demo:**  
-[https://youtu.be/YOUR_VIDEO_ID](https://lnkd.in/p/dAqMAJeA)
 
 **Tech**
 
